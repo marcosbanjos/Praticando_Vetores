@@ -1,0 +1,7 @@
+C:\Users\Aluno\Desktop\marcosbanjos\MediaVetores\bin\Debug\MediaVetores.exe.config
+C:\Users\Aluno\Desktop\marcosbanjos\MediaVetores\bin\Debug\MediaVetores.exe
+C:\Users\Aluno\Desktop\marcosbanjos\MediaVetores\bin\Debug\MediaVetores.pdb
+C:\Users\Aluno\Desktop\marcosbanjos\MediaVetores\obj\Debug\MediaVetores.csproj.AssemblyReference.cache
+C:\Users\Aluno\Desktop\marcosbanjos\MediaVetores\obj\Debug\MediaVetores.csproj.CoreCompileInputs.cache
+C:\Users\Aluno\Desktop\marcosbanjos\MediaVetores\obj\Debug\MediaVetores.exe
+C:\Users\Aluno\Desktop\marcosbanjos\MediaVetores\obj\Debug\MediaVetores.pdb

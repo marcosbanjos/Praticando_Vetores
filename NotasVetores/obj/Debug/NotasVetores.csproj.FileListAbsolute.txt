@@ -1,0 +1,7 @@
+C:\Users\Aluno\Desktop\marcosbanjos\NotasVetores\bin\Debug\NotasVetores.exe.config
+C:\Users\Aluno\Desktop\marcosbanjos\NotasVetores\bin\Debug\NotasVetores.exe
+C:\Users\Aluno\Desktop\marcosbanjos\NotasVetores\bin\Debug\NotasVetores.pdb
+C:\Users\Aluno\Desktop\marcosbanjos\NotasVetores\obj\Debug\NotasVetores.csproj.AssemblyReference.cache
+C:\Users\Aluno\Desktop\marcosbanjos\NotasVetores\obj\Debug\NotasVetores.csproj.CoreCompileInputs.cache
+C:\Users\Aluno\Desktop\marcosbanjos\NotasVetores\obj\Debug\NotasVetores.exe
+C:\Users\Aluno\Desktop\marcosbanjos\NotasVetores\obj\Debug\NotasVetores.pdb
